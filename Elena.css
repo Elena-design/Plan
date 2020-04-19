@@ -1,0 +1,42 @@
+table {
+  color:black
+}
+[href="https://www.youtube.com/watch?v=4jYYHaTwWvY&t=705s"] {
+  color: purple
+}
+[href="https://www.youtube.com/watch?v=GoBvYPwv-g8&t=472s"]{
+  color: green
+}
+[href="https://world.wallstreetenglish.com/student/activityPlayer"]{
+  color: orange
+}
+[href="https://www.youtube.com/watch?v=DKy4KzIn1qg&list=PLB0276A0A62BDEF06"]{
+  color: red;
+}
+[href="https://www.youtube.com/watch?v=bQQ0WCPhkU0"]
+{
+  color: yellow
+}
+[colspan="2"]{
+  color: blue
+}
+[width="100"]{
+  color: red
+}
+.privet{
+  color: red;text-align: center;}
+.word-1{
+  color: brown; background: yellow;text-decoration: line-through;text-align: center;text-decoration-color: green
+}
+.word-2{
+  color:white; background: red;text-align: center;text-decoration: line-through;text-decoration-color: blue
+}
+.word-3{
+  color:white; background: green;text-align: center;text-decoration: underline;
+}
+.ex{
+color: white; border-color: red; background: blue;text-decoration: underline;text-align: center;text-decoration-color:red
+}
+.PS{
+  color: white;background:purple;text-decoration: overline;text-align: center;
+}
